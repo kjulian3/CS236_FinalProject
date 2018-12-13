@@ -6,3 +6,4 @@ This work is based heavily on the Tensorflow DCGAN implementation available at h
 
 ### Example Artificial Wildfire Images
 
+![Generated Wildfire Images](https://github.com/kjulian3/CS236_FinalProject/blob/master/GeneratedExamples.png)
